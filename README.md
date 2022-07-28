@@ -1,3 +1,3 @@
 # PI
 
-Projetos Interdisciplinares
+Disciplina que reunirá projetos Interdisciplinares
